@@ -1,0 +1,8 @@
+E:\Dropbox\Projects\YandexTest\YandexTest\bin\Debug\YandexTest.dll
+E:\Dropbox\Projects\YandexTest\YandexTest\bin\Debug\YandexTest.pdb
+E:\Dropbox\Projects\YandexTest\YandexTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Dropbox\Projects\YandexTest\YandexTest\bin\Debug\WebDriver.dll
+E:\Dropbox\Projects\YandexTest\YandexTest\bin\Debug\WebDriver.xml
+E:\Dropbox\Projects\YandexTest\YandexTest\obj\Debug\YandexTest.csprojResolveAssemblyReference.cache
+E:\Dropbox\Projects\YandexTest\YandexTest\obj\Debug\YandexTest.dll
+E:\Dropbox\Projects\YandexTest\YandexTest\obj\Debug\YandexTest.pdb
